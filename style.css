@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  margin-left: 45rem;
+  width: fit-content;
+  font-size: 10px;
+  border: 1px solid black;
+  padding-right: 22px;
+}
+
+.clg-name {
+    display: flex;
+    gap: 15px;
+}
+
+img {
+  width: 120px;
+  height: 150px;
+  margin-top: 10px;
+}
+
+.introduction {
+  display: flex;
+  flex-direction: column;
+  align-items:start;
+  margin-left: 40px;
+  margin-top: 15px;
+  line-height: 1px;
+}
+
+.extro {
+  background-color: blue;
+  color: white;
+  padding: 5px;
+}
