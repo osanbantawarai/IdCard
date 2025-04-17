@@ -11,6 +11,10 @@
   padding-right: 22px;
 }
 
+.title {
+  text-transform: uppercase;
+}
+
 .clg-name {
     display: flex;
     gap: 15px;
